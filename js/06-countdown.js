@@ -9,6 +9,7 @@
 
 //prompt the user to enter a number
 let userNum = window.prompt('Enter your countdown number: ');
+let i;
 
 for (i = userNum; i >= 0; i--) {
     console.log(`${i}`);

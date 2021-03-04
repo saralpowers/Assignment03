@@ -6,6 +6,7 @@
 
 //An application that iterates from numbers from 1 to 100 displays a string if
 //the number is a multiple of 3, 5, or both 3 and 5 using the modulus operator.
+let i;
 
 for (i = 0; i <= 100; i++) {
     //If the number is a multiple of 3, print "Marco!"

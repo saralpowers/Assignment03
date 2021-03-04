@@ -6,6 +6,7 @@
 
 //An application that iterates from 0 to 15, and checks if each number is odd or even
 //and displays output in the console using the modulus operator.
+let i;
 
 for (i = 0; i <= 15; i++) {
     if (i % 2 === 0) {
